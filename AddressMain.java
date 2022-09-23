@@ -8,7 +8,7 @@ public class AddressMain {
 
 		ABookSystem addressBook = new ABookSystem();
 		addressBook.addContacts();
-		addressBook.editDetails();
+		addressBook.deleteDetails();
 
 	}
 
